@@ -9,7 +9,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/📧_Email-thakshilafonseka2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakshilafonseka2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thakshilafonseka)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakshila-fonseka-1b9023293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
 </div>
