@@ -10,7 +10,7 @@
   
 [![Email](https://img.shields.io/badge/📧_Email-thakshilafonseka2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakshilafonseka2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thakshilafonseka)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thakshilafonseka.dev)
+
 
 </div>
 
@@ -154,7 +154,6 @@ const thakshila = {
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
@@ -162,9 +161,6 @@ const thakshila = {
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
@@ -174,7 +170,6 @@ const thakshila = {
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
 ### **Database Systems**
@@ -202,7 +197,6 @@ const thakshila = {
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
 </p>
 
 </details>
@@ -228,60 +222,7 @@ const thakshila = {
 
 </div>
 
----
 
-## 🚀 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 📱 **Cross-Platform E-Commerce App**
-**Tech Stack**: Flutter • Node.js • MongoDB • Stripe  
-**Features**: Real-time inventory, Push notifications, Offline mode  
-**Architecture**: Clean Architecture with BLoC pattern  
-
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-View-FF5722?style=flat)](https://demo-link)
-[![Code](https://img.shields.io/badge/💻_Source_Code-GitHub-100000?style=flat&logo=github)](https://github.com/thakshilafonseka/ecommerce-app)
-
-</td>
-<td width="50%">
-
-### 🧠 **Emotional Intelligence Framework**
-**Tech Stack**: Python • TensorFlow • FastAPI • PostgreSQL  
-**Features**: Sentiment analysis, Team dynamics, Predictive analytics  
-**Purpose**: Enhancing agile team productivity  
-
-[![Research](https://img.shields.io/badge/📄_Research_Paper-Read-4285F4?style=flat)](https://research-link)
-[![Code](https://img.shields.io/badge/💻_Source_Code-GitHub-100000?style=flat&logo=github)](https://github.com/thakshilafonseka/emotional-ai-framework)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Real-Time Collaboration Platform**
-**Tech Stack**: React • Socket.io • Express.js • PostgreSQL  
-**Features**: Live editing, Video conferencing, File sharing  
-**Deployment**: Docker containers on AWS ECS  
-
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-View-FF5722?style=flat)](https://demo-link)
-[![Code](https://img.shields.io/badge/💻_Source_Code-GitHub-100000?style=flat&logo=github)](https://github.com/thakshilafonseka/collaboration-platform)
-
-</td>
-<td width="50%">
-
-### 🤖 **AI-Powered Content Generator**
-**Tech Stack**: Next.js • OpenAI API • Prisma • Vercel  
-**Features**: NLP processing, Content optimization, RESTful API  
-**Integration**: Authentication & payment systems  
-
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-View-FF5722?style=flat)](https://demo-link)
-[![Code](https://img.shields.io/badge/💻_Source_Code-GitHub-100000?style=flat&logo=github)](https://github.com/thakshilafonseka/ai-content-generator)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -303,7 +244,7 @@ const thakshila = {
 </td>
 <td width="33%" align="center">
 
-### 🎯 **2024 Goals**
+### 🎯 **2025/2026 Goals**
 - Complete final year research
 - Contribute to open source
 - Build production-ready apps
